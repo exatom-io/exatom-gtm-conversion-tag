@@ -1,5 +1,7 @@
 homepage: "https://exatom.io"
 documentation: "https://support.exatom.io/portal/en/kb/exatom/setup/tags"
 versions:
+  - sha: fe8c44292f26a9c2a4c07c0c8b8897940140c62f
+    changeNotes: Fix TOS not exported bug in template.
   - sha: fab728a9cf9bd38e55176da168fd5d118b7e2b1d
     changeNotes: Initial release.
